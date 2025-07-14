@@ -62,7 +62,7 @@ teste=[+11/01/2025];
 ```bash
 teste=[-11/01/2025];
 ```
-
+para mais detalhes acesse o Tutorial.md
 
 ## Como Usar?
 
